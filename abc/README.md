@@ -14,3 +14,9 @@
 * [x] C:23min
 * [ ] D:not yet
 
+## [AtCoder Beginner Contest 121 \- AtCoder]( https://atcoder.jp/contests/abc121 )
+
+* [x] A:3min
+* [x] B:6min
+* [x] C:10min
+* [] D:not yet
