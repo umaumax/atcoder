@@ -20,3 +20,10 @@
 * [x] B:6min
 * [x] C:10min
 * [] D:not yet
+
+## [AtCoder Beginner Contest 120 \- AtCoder]( https://atcoder.jp/contests/abc120 )
+
+* [x] A:2min
+* [x] B:2min
+* [x] C:10min (もっとシンプルに実装可能)
+* [] D:not yet
