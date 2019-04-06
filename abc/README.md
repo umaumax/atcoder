@@ -27,3 +27,10 @@
 * [x] B:2min
 * [x] C:10min (もっとシンプルに実装可能)
 * [] D:not yet
+
+## [AtCoder Beginner Contest 119 \- AtCoder]( https://atcoder.jp/contests/abc119 )
+
+* [x] A:2min
+* [x] B:4min
+* [x] C:10min retire 20min (全列挙すればよかった)
+* [] D:not yet
