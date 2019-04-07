@@ -34,3 +34,10 @@
 * [x] B:4min
 * [x] C:10min retire 20min (全列挙すればよかった)
 * [] D:not yet
+
+## [AtCoder Beginner Contest 118 \- AtCoder]( https://atcoder.jp/contests/abc118 )
+
+* [x] A:1min
+* [x] B:6min
+* [x] C:16min (証明ができなかった)
+* [] D:not yet
